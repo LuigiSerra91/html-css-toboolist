@@ -5,7 +5,9 @@
     vertical-align: middle;
 }
 
-
+.new-task{
+    padding-top: 20px;
+}
 
 .first-title{
     display: inline-block;
@@ -25,6 +27,7 @@
     border-radius: 5px;
     width: 80px;
     height: 30px;
+    
 }
 
 .button-section{
@@ -34,4 +37,66 @@
     width: 100px;
     height: 30px;
 
+}
+
+.editorial{
+    background-color:rgb(12, 185, 253) ;
+    border-radius: 15px;
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+.q1-gol{
+    background-color: rgb(192, 125, 255);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+.recruting{
+    background-color: rgb(104, 190, 104);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+.mobile{
+    background-color: rgb(240, 166, 28);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+.website{
+    background-color: palevioletred;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+.sales{
+    background-color: greenyellow;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
 }
