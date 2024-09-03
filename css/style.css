@@ -19,6 +19,7 @@
     margin: 0 auto;
     width: 40%;
     padding-left: 60px;
+    padding-right: 60px;
     margin-top: 5px;
     background-color: white;
     padding-bottom: 70px;
@@ -123,10 +124,7 @@ header{
 }
 
 
-.button-style{
-    padding: 40px 60 px;
-    border-bottom: 10px;
-}
+
 
 .upcoming{
     padding-bottom: 10px;
@@ -139,10 +137,9 @@ header{
 .button-style{
     background-color: white;
     padding: 10px 60px;
-    width: 37%;
+    width: 40%;
     margin: auto;
     margin-top: 50px;
-    
 }
 
 
