@@ -5,6 +5,9 @@
     vertical-align: middle;
 }
 
+.body{
+    background-color: gray;
+}
 .new-task{
     padding-top: 20px;
 }
@@ -15,8 +18,8 @@
 }
 
 .conteiner{
+    margin: 0 auto;
     width: 80%;
-    margin: auto;
     padding-left: 60px;
     padding-top: 50px;
 }
@@ -99,4 +102,9 @@
     padding-right: 5px;
     font-size: 12px;
 }
+
+.footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(10, 1, 1);
+
 }
