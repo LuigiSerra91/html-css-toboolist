@@ -5,7 +5,33 @@
     vertical-align: middle;
 }
 
+
+
 .first-title{
     display: inline-block;
     vertical-align: middle;
+}
+
+.conteiner{
+    width: 80%;
+    margin: auto;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+.button-task{
+    background-color: rgb(12, 185, 253);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+
+.button-section{
+    background-color: aliceblue;
+    color: gray;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+
 }
