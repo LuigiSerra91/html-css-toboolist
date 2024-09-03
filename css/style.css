@@ -14,13 +14,19 @@
     vertical-align: middle;
 }
 
-.conteiner{
+.button-style{
+    margin-bottom: 2px;
+    border-color: grey;
+}
+
+.container{
     margin: 0 auto;
     width: 40%;
     padding-left: 60px;
     margin-top: 35px;
     background-color: white;
     padding-bottom: 70px;
+    padding: 40px 60px;
 }
 
 .button-task{
