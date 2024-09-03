@@ -6,7 +6,8 @@
 }
 
 .new-task{
-    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .first-title{
@@ -14,19 +15,13 @@
     vertical-align: middle;
 }
 
-.button-style{
-    margin-bottom: 2px;
-    border-color: grey;
-}
-
 .container{
     margin: 0 auto;
     width: 40%;
     padding-left: 60px;
-    margin-top: 35px;
+    margin-top: 5px;
     background-color: white;
     padding-bottom: 70px;
-    padding: 40px 60px;
 }
 
 .button-task{
@@ -126,3 +121,28 @@ body{
 header{
     background-color: white;
 }
+
+
+.button-style{
+    padding: 40px 60 px;
+    border-bottom: 10px;
+}
+
+.upcoming{
+    padding-bottom: 10px;
+}
+
+.section-today{
+    padding-bottom: 10px;
+}
+
+.button-style{
+    background-color: white;
+    padding: 10px 60px;
+    width: 37%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+
