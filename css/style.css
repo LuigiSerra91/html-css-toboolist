@@ -107,7 +107,12 @@
 .footer{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(10, 1, 1);
-
+    width: 40%;
+    background-color: white;
+    padding-left:60px;
+    padding-right: 60px;
+    margin: auto;
+    margin-top: 5px;
 }
 
 .x-red{
