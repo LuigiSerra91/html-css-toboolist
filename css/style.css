@@ -22,7 +22,9 @@
     padding-right: 60px;
     margin-top: 5px;
     background-color: white;
-    padding-bottom: 70px;
+    padding-bottom: 80px;
+    
+    
 }
 
 .button-task{
@@ -133,7 +135,10 @@ header{
 
 .upcoming{
     padding-bottom: 10px;
+    
+
 }
+
 
 .section-today{
     padding-bottom: 10px;
@@ -147,4 +152,9 @@ header{
     margin-top: 50px;
 }
 
+
+.padding-list{
+    padding-bottom: 10px;
+    list-style: none;
+}
 
