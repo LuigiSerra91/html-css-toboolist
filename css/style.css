@@ -164,6 +164,8 @@ header{
 
 .icon.green{
     border: 10px;
+    border-color: green;
     color: green;
+
 }
 
