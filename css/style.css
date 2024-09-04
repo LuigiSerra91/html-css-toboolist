@@ -16,15 +16,30 @@
 }
 
 .container{
-    margin: 0 auto;
-    width: 40%;
-    padding-left: 60px;
-    padding-right: 60px;
-    margin-top: 5px;
+    margin: auto;
+    width: 70%;
+}
+
+main{
+    padding 3rem o;
+}
+
+.card{
     background-color: white;
-    padding-bottom: 80px;
-    
-    
+    margin-top: 32px;
+    border: 1px solid cadetblue;
+    box-shadow: 0 0 10px cadetblue;
+}
+.card_header{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 1 rem;
+    border-bottom: 2px solid cornflowerblue;
+}
+
+.card_body{
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 .button-task{
@@ -109,12 +124,12 @@
 .footer{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(10, 1, 1);
-    width: 40%;
+    width: 80%;
     background-color: white;
-    padding-left:60px;
-    padding-right: 60px;
-    margin: auto;
+    padding-left:3rem;
+    padding-right: 3rem;
     margin-top: 5px;
+    margin: 0;
 }
 
 .x-red{
@@ -124,6 +139,7 @@
 body{
     background-color: lightgray;
     margin: 0;
+    box-sizing: border-box;
 }
 
 header{
